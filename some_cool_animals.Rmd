@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Your name here"
+author: "Vanessa Rathbone"
 output: html_document
 ---
 
@@ -15,6 +15,8 @@ The organization of this document probably seems strange. That's because it's pa
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
 
 ### Cool animal fun facts {.tabset .tabset-fade}
+
+use {} to make individual tabs or table of contents within ###, every #### will be a new tab
 
 #### Great white sharks
 
@@ -45,6 +47,14 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### Ringtail cats
+![Photo: courtesty of VA Zoo](img/ringtail_cat.jpg)
+##### Fun facts for ringtail cats
+
+- They can rotate their hind feet 180 degrees
+- Not endangered, just really elusive
+- More like raccoons that cats
 
 ###
 
